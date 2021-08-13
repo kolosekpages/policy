@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kolosek Policy",
+    "description": "",
+    "home_page_url": "https://kolosekpages.github.io/policy",
+    "feed_url": "https://kolosekpages.github.io/policy/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kolosek"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kolosekpages.github.io/policy/sitemap.xml
